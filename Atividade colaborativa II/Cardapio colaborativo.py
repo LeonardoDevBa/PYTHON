@@ -146,7 +146,7 @@ while True:
 0- NÂO
 1- SIM
         : """))
-            if opcao2==2:
+            if opcao2==1:
                 os.system("cls||clear")
                 opcao
             else:
